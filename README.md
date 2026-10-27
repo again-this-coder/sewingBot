@@ -1,3 +1,3 @@
 ﻿# Sewing Telegram Bot
 
-A Telegram bot for sewers.
+A Telegram bot for sewists.
